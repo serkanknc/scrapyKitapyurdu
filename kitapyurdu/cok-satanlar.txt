@@ -1,0 +1,500 @@
+*************************************
+1.
+Book: Öğrenmeyi Öğrenmek
+Publisher: TİN YAYINLARI
+Author:  Altay Cem Meriç
+*************************************
+2.
+Book: Rezonans Kanunu
+Publisher: KORİDOR YAYINCILIK
+Author:  Pierre Franckh
+*************************************
+3.
+Book: Naneyi Yedik Lokantası
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Mert Arık
+*************************************
+4.
+Book: O’nu (s.a.v.) Kalbinle Dinle & Mekke Günleri
+Publisher: AİLE YAYINLARI
+Author:  Onur Kaplan
+*************************************
+5.
+Book: Söyleme Bilmesinler
+Publisher: DOĞAN KİTAP
+Author:  Şermin Yaşar
+*************************************
+6.
+Book: Bahtına Düştüm Ya Rab!
+Publisher: TİMAŞ YAYINLARI
+Author:  Mehmet  Yıldız
+*************************************
+7.
+Book: Bu Kadar Tantana Yeter
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Mert Arık
+*************************************
+8.
+Book: Üç Cisim Problemi
+Publisher: İTHAKİ YAYINLARI
+Author:  Cixin Liu
+*************************************
+9.
+Book: Çantamdan Fil Çıktı
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Mert Arık
+*************************************
+10.
+Book: Atomik Alışkanlıklar
+Publisher: PEGASUS YAYINLARI
+Author:  James Clear
+*************************************
+11.
+Book: Ayvayı Yedik Müzesi
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Mert Arık
+*************************************
+12.
+Book: İnsanlığımı Yitirirken
+Publisher: KAPRA YAYINCILIK
+Author:  Osamu Dazai
+*************************************
+13.
+Book: Ucuz Romancılar
+Publisher: ALFA YAYINLARI
+Author:  Murat Menteş
+*************************************
+14.
+Book: Nietzsche Ağladığında
+Publisher: AYRINTI YAYINLARI
+Author:  Irvin D. Yalom
+*************************************
+15.
+Book: Zeytindağı
+Publisher: POZİTİF YAYINLARI
+Author:  Falih Rıfkı Atay
+*************************************
+16.
+Book: Muhtelif 1 & İslam'a Yönelik İtirazlar ve Cevaplar
+Publisher: İNSAN YAYINLARI
+Author:  Altay Cem Meriç
+*************************************
+17.
+Book: Platin Üyelik 1 Aylık Abonelik
+Publisher: KİTAPYURDU
+Author: None
+*************************************
+18.
+Book: Dinozorumun Saklandığı Yer
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Mert Arık
+*************************************
+19.
+Book: Kaplanın Sırtında 
+Publisher: İNKILAP KİTABEVİ
+Author:  Zülfü Livaneli
+*************************************
+20.
+Book: İrade Terbiyesi
+Publisher: KAPRA YAYINCILIK
+Author:  Jules Payot
+*************************************
+21.
+Book: Benim Zürafam Uçabilir
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Mert Arık
+*************************************
+22.
+Book: Yaşamak
+Publisher: JAGUAR KİTAP
+Author:  Yu Hua 
+*************************************
+23.
+Book: Kafamın İçi & Fatih Sultan Mehmet
+Publisher: AİLE YAYINLARI
+Author:  Hüma Çalışkan
+*************************************
+24.
+Book: Seçilmiş & Ya Varsın Ya Yoksun
+Publisher: AİLE YAYINLARI
+Author:  Umut Bayrak
+*************************************
+25.
+Book: Aşk Hikayesi
+Publisher: KAPI YAYINLARI
+Author: Prof. Dr. İskender Pala
+*************************************
+26.
+Book: Güzellik ve Şifanın Kadim Sırları (Ciltli)
+Publisher: ALFA YAYINLARI
+Author:  Suna Dumankaya
+*************************************
+27.
+Book: Uzaya Giden Tren
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Mert Arık
+*************************************
+28.
+Book: Peygamberliğin İspatı & Haber Delili
+Publisher: İNSAN YAYINLARI
+Author:  Altay Cem Meriç
+*************************************
+29.
+Book: 4 Gün 3 Gece
+Publisher: EVEREST YAYINLARI
+Author:  Ayşe Kulin
+*************************************
+30.
+Book: Yedek Kaleci
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Hüseyin Keleş
+*************************************
+31.
+Book: İyi Hissetmek
+Publisher: PSİKONET YAYINLARI
+Author: Dr. David Burns
+*************************************
+32.
+Book: Saatleri Ayarlama Enstitüsü
+Publisher: DERGAH YAYINLARI
+Author:  Ahmet Hamdi Tanpınar
+*************************************
+33.
+Book: Tanrı Var mı? & Bir Arayışın Tarihi
+Publisher: FOL KİTAP
+Author:  W. David Beck
+*************************************
+34.
+Book: İnsanın Anlam Arayışı
+Publisher: OKUYAN US YAYIN
+Author:  Viktor Emil Frankl
+*************************************
+35.
+Book: Körlük
+Publisher: KIRMIZI KEDİ YAYINEVİ
+Author:  Jose Saramago
+*************************************
+36.
+Book: Karanlık Orman
+Publisher: İTHAKİ YAYINLARI
+Author:  Cixin Liu
+*************************************
+37.
+Book: İnsan Olmak
+Publisher: METİS YAYINLARI
+Author:  Engin Geçtan
+*************************************
+38.
+Book: Ölümün Sonu
+Publisher: İTHAKİ YAYINLARI
+Author:  Cixin Liu
+*************************************
+39.
+Book: Meczup
+Publisher: NESİL YAYINLARI
+Author:  Fatih Duman
+*************************************
+40.
+Book: Bilinçaltının Gücü & Zihinsel ve Bedensel İyileşme
+Publisher: DİYOJEN YAYINCILIK
+Author:  Joseph Murphy
+*************************************
+41.
+Book: Cumhuriyet’in İlk Sabahı
+Publisher: KRONİK KİTAP
+Author: Prof. Dr. İlber Ortaylı
+*************************************
+42.
+Book: Şeker Portakalı (Ciltsiz)
+Publisher: CAN YAYINLARI
+Author:  Jose Mauro De Vasconcelos
+*************************************
+43.
+Book: İFA - İnsanın Fabrika Ayarları (Genişletilmiş Yeni Baskı)
+Publisher: TUTİ KİTAP
+Author:  Sinan Canan
+*************************************
+44.
+Book: İrade Terbiyesi
+Publisher: KETEBE YAYINEVİ
+Author: Dr. Ethem Bakar
+*************************************
+45.
+Book: Parmenides’ten Levinas’a Metafizik
+Publisher: FOL KİTAP
+Author:  Jean Grondin
+*************************************
+46.
+Book: Var mısın? & Güçlü Bir Yaşam İçin Öneriler
+Publisher: KRONİK KİTAP
+Author:  Doğan Cüceloğlu
+*************************************
+47.
+Book: Yelekler Arası / Hayat Dediğin 1
+Publisher: KRONİK KİTAP
+Author: Doç. Dr. Saniye Bencik Kangal
+*************************************
+48.
+Book: Bin Dokuz Yüz Seksen Dört - 1984
+Publisher: KAPRA YAYINCILIK
+Author:  George Orwell
+*************************************
+49.
+Book: Küçük Prens
+Publisher: KAPRA YAYINCILIK
+Author:  Antoine De Saint Exupery
+*************************************
+50.
+Book: Gizli Bir Hazine / Hayat Dediğin 3 
+Publisher: KRONİK KİTAP
+Author: Doç. Dr. Saniye Bencik Kangal
+*************************************
+51.
+Book: Osmanlı’nın Üç Harflileri & Hortlaklar, Hayaletler, Cinler Arasında
+Publisher: FOL KİTAP
+Author:  Marinos Sariyannis
+*************************************
+52.
+Book: Puslu Kıtalar Atlası
+Publisher: İLETİŞİM YAYINLARI
+Author:  İhsan Oktay Anar
+*************************************
+53.
+Book: 2024 KPSS Genel Yetenek Genel Kültür Tamamı Çözümlü 7 Deneme
+Publisher: PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+Author:  Kolektif 
+*************************************
+54.
+Book: Rota Yeniden Oluşturuluyor
+Publisher: YEDİVEREN YAYINLARI
+Author:  Dilek Cesur
+*************************************
+55.
+Book: Paranın Psikolojisi
+Publisher: SCALA YAYINCILIK
+Author:  Morgan Housel
+*************************************
+56.
+Book: Çalınan Dikkat
+Publisher: METİS YAYINLARI
+Author:  Johann Hari
+*************************************
+57.
+Book: Vücudunuz Hayır Diyorsa & Duygusal Stresin Bedelleri
+Publisher: İLETİŞİM YAYINLARI
+Author:  Gabor Mate
+*************************************
+58.
+Book: Tatlı Bir Telaş / Hayat Dediğin 2
+Publisher: KRONİK KİTAP
+Author: Doç. Dr. Saniye Bencik Kangal
+*************************************
+59.
+Book: İktidar (Güç Sahibi Olmanın 48 Yasası)
+Publisher: ALTIN KİTAPLAR
+Author:  Robert Greene
+*************************************
+60.
+Book: Dünyanın En Yalnız Beyni
+Publisher: ORTAPİA
+Author:  Serkan Karaismailoğlu
+*************************************
+61.
+Book: Geliştiren Anne-Baba
+Publisher: KRONİK KİTAP
+Author:  Doğan Cüceloğlu
+*************************************
+62.
+Book: Yeraltından Notlar
+Publisher: KAPRA YAYINCILIK
+Author:  Fyodor Mihailoviç Dostoyevski
+*************************************
+63.
+Book: Osmanlı’da Bilimin Siyaseti & 19. Yüzyılda Bilimi, Devleti ve Toplumu Tartışmak
+Publisher: FOL KİTAP
+Author:  Mehmet Alper Yalçınkaya
+*************************************
+64.
+Book: Bülbülü Öldürmek
+Publisher: EPSİLON YAYINEVİ
+Author:  Harper Lee
+*************************************
+65.
+Book: Kitleler Psikolojisi
+Publisher: KAPRA YAYINCILIK
+Author:  Gustave Le Bon
+*************************************
+66.
+Book: Algernon'a Çiçekler
+Publisher: KORİDOR YAYINCILIK
+Author:  Daniel Keyes
+*************************************
+67.
+Book: Bir İdam Mahkumunun Son Günü
+Publisher: KAPRA YAYINCILIK
+Author:  Victor Hugo
+*************************************
+68.
+Book: Labirent & Batı ve Hasımları
+Publisher: YAPI KREDİ YAYINLARI
+Author:  Amin Maalouf
+*************************************
+69.
+Book: Eşekli Kütüphaneci
+Publisher: LİTERATÜR YAYINLARI
+Author:  Fakir Baykurt
+*************************************
+70.
+Book: Kiraz Ağacı ile Aramızdaki Mesafe
+Publisher: TİMAŞ GENÇ
+Author:  Paola Peretti
+*************************************
+71.
+Book: Dört Anlaşma: Toltek Bilgelik Kitabı
+Publisher: ÖTESİ YAYINCILIK
+Author:  Don Miguel Ruiz
+*************************************
+72.
+Book: Her Şeyin Hikayesi
+Publisher: İTHAKİ YAYINLARI
+Author:  Richard Powers
+*************************************
+73.
+Book: Cehaletten Kurtulma Sanatı & Kim Kimdir?
+Publisher: MASA KİTAP
+Author:  A. M. Celal Şengör
+*************************************
+74.
+Book: Naber Sayı 13
+Publisher: NABER DERGİ
+Author: None
+*************************************
+75.
+Book: Hayat En Çok İyileri Kırar & Kırıldığımız Yerden Güçlenmenin Yolları
+Publisher: KRONİK KİTAP
+Author: Prof.Dr. Acar Baltaş
+*************************************
+76.
+Book: Benim De Söyleyeceklerim Var Cilt 4
+Publisher: KOMİK ŞEYLER YAYINCILIK
+Author:  Umut Sarıkaya
+*************************************
+77.
+Book: Zengin Baba Yoksul Baba
+Publisher: ALFA YAYINLARI
+Author:  Robert T. Kiyosaki
+*************************************
+78.
+Book: Cesur Yeni Dünya
+Publisher: İTHAKİ YAYINLARI
+Author:  Aldous Huxley
+*************************************
+79.
+Book: Momo
+Publisher: PEGASUS YAYINLARI
+Author:  Michael Ende
+*************************************
+80.
+Book: Tanrı ve Diğer Zihinler & İnsanlığın Ezeli Sorusuna Yanıt
+Publisher: FOL KİTAP
+Author:  Alvin Plantinga
+*************************************
+81.
+Book: Akıllı Yatırımcı
+Publisher: EPSİLON YAYINEVİ
+Author:  Benjamin Graham
+*************************************
+82.
+Book: Simyacı (Ciltsiz)
+Publisher: CAN YAYINLARI
+Author:  Paulo Coelho
+*************************************
+83.
+Book: Cumhuriyet’in Doğuşu & Kurtuluş ve Kuruluş Yılları
+Publisher: KRONİK KİTAP
+Author: Prof. Dr. İlber Ortaylı
+*************************************
+84.
+Book: İlk Okuma - Vücudunuz
+Publisher: TÜBİTAK YAYINLARI
+Author:  Stephanie Turnbull
+*************************************
+85.
+Book: Fareler ve İnsanlar
+Publisher: SEL YAYINCILIK
+Author:  John Steinbeck
+*************************************
+86.
+Book: Fahrenheit 451
+Publisher: İTHAKİ YAYINLARI
+Author:  Ray Bradbury
+*************************************
+87.
+Book: İnsancıklar
+Publisher: KAPRA YAYINCILIK
+Author:  Fyodor Mihailoviç Dostoyevski
+*************************************
+88.
+Book: Kapra Felsefe Seti (10 Kitap)
+Publisher: KAPRA YAYINCILIK
+Author:  Rene Descartes
+*************************************
+89.
+Book: Kızıl Karma
+Publisher: DOĞAN KİTAP
+Author:  Jean Christophe Grange
+*************************************
+90.
+Book: Dil Belası - Dilin Afetleri
+Publisher: ÇELİK YAYINEVİ
+Author:  İmam Gazali
+*************************************
+91.
+Book: İnce Memed 1
+Publisher: YAPI KREDİ YAYINLARI
+Author:  Yaşar Kemal
+*************************************
+92.
+Book: Serenad
+Publisher: İNKILAP KİTABEVİ
+Author:  Zülfü Livaneli
+*************************************
+93.
+Book: Büyük Dostum
+Publisher: TİMAŞ İLK GENÇ
+Author:  Anıl Basılı
+*************************************
+94.
+Book: Baron İstilası
+Publisher: KIRMIZI KEDİ YAYINEVİ
+Author:  Timur Soykan
+*************************************
+95.
+Book: Dadanık
+Publisher: DOĞAN ÇOCUK
+Author:  Anıl Basılı
+*************************************
+96.
+Book: Muhteşem Terzi
+Publisher: TİMAŞ İLK GENÇ
+Author:  Ayşenur Kurtuluş Peltek 
+*************************************
+97.
+Book: Neden İslam’ın Orta Çağı Yoktu? & Antik Çağ’ın Mirası ve Doğu
+Publisher: RUNİK KİTAP
+Author:  Thomas Bauer
+*************************************
+98.
+Book: Dijital Dedektifler 1 / Kamera Arkası
+Publisher: ACAYİP KİTAPLAR
+Author:  Orhan Toker
+*************************************
+99.
+Book: Tanrı, Özgürlük ve Kötülük
+Publisher: FOL KİTAP
+Author:  Alvin Plantinga
+*************************************
+100.
+Book: Dünyanın En Korkak Hayvanı
+Publisher: TİMAŞ ÇOCUK YAYINLARI
+Author:  Caner Sarıoğlu
